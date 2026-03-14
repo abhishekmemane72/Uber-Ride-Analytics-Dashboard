@@ -87,6 +87,6 @@ This project demonstrates **data analysis and visualization skills** using Power
 
 ## 📬 Reach Me
 📧 **Email:** [abhimemane7272@gmail.com](mailto:abhimemane7272@gmail.com)
-💼 **LinkedIn:** [Abhishek Memane](https://www.linkedin.com/in/abhishek-memane-5b609238a)
+💼 **LinkedIn:** [Abhishek Memane]([https://www.linkedin.com/in/abhishek-memane-5b609238a](https://www.linkedin.com/in/abhishek-memane-5b609238a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 🐙 **GitHub:** [abhishekmemane72](https://github.com/abhishekmemane72)
 📍 **Location:** Maharashtra, India
