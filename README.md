@@ -84,3 +84,9 @@ This project demonstrates **data analysis and visualization skills** using Power
 # 👨‍💻 Author
 
 **Abhishek Memane**
+
+## 📬 Reach Me
+📧 **Email:** [abhimemane7272@gmail.com](mailto:abhimemane7272@gmail.com)
+💼 **LinkedIn:** [Abhishek Memane](https://www.linkedin.com/in/abhishek-memane-5b609238a)
+🐙 **GitHub:** [abhishekmemane72](https://github.com/abhishekmemane72)
+📍 **Location:** Maharashtra, India
