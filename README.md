@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard project** that analyzes Uber ride data to generate insights on bookings, revenue, vehicles, payments, and customer behavior.
 
-This dashboard helps understand **business performance, ride patterns, and customer trends** using visually interactive reports.
+This dashboard helps understand **business performance, ride patterns, and customer trends** using visually interactive reports. 
 
 ---
 
